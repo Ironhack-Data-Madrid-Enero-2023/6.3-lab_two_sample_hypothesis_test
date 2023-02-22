@@ -1,0 +1,23 @@
+2023-02-22 14:59:30,959 [31559] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-22 14:59:30,960 [31559] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-22 14:59:30,960 [31559] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-22 14:59:30,962 [31559] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-22 14:59:30,962 [31559] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-22 14:59:30,963 [31559] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-22 15:00:02,797 [31559] INFO     numexpr.utils:160: [JupyterRequire] NumExpr defaulting to 4 threads.
+2023-02-22 15:41:25,519 [31559] WARNING  py.warnings:109: [JupyterRequire] /tmp/ipykernel_31559/2804751349.py:3: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  water.mean()
+
+2023-02-22 17:11:18,855 [37655] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-22 17:11:18,856 [37655] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-22 17:11:18,856 [37655] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-22 17:11:18,859 [37655] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-22 17:11:18,859 [37655] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-22 17:11:18,860 [37655] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-22 17:11:19,385 [37655] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-22 17:11:19,385 [37655] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-22 17:11:19,385 [37655] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-22 17:11:19,394 [37655] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-22 17:11:19,396 [37655] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-22 17:11:19,397 [37655] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-22 17:11:22,219 [37655] INFO     numexpr.utils:160: [JupyterRequire] NumExpr defaulting to 4 threads.
