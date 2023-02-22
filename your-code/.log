@@ -41,3 +41,16 @@
 2023-02-22 14:51:52,647 [5271] WARNING  py.warnings:109: [JupyterRequire] /Users/ruben/opt/anaconda3/lib/python3.9/site-packages/scipy/stats/_stats_py.py:1250: RuntimeWarning: invalid value encountered in scalar multiply
   var *= np.divide(n, n-ddof)  # to avoid error on division by zero
 
+2023-02-22 15:20:09,042 [6676] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-22 15:20:09,043 [6676] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-22 15:20:09,043 [6676] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-22 15:20:09,045 [6676] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-22 15:20:09,046 [6676] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-22 15:20:09,046 [6676] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-22 15:20:09,844 [6676] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-22 15:20:09,844 [6676] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-22 15:20:09,844 [6676] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-22 15:20:09,847 [6676] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-22 15:20:09,847 [6676] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-22 15:20:09,848 [6676] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-22 15:20:30,524 [6676] INFO     numexpr.utils:160: [JupyterRequire] NumExpr defaulting to 8 threads.
