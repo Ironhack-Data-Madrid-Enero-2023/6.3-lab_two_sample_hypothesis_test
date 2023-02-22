@@ -1,0 +1,43 @@
+2023-02-22 14:22:19,906 [5271] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-22 14:22:19,907 [5271] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-22 14:22:19,907 [5271] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-22 14:22:19,909 [5271] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-22 14:22:19,909 [5271] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-22 14:22:19,910 [5271] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-22 14:22:20,484 [5271] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-22 14:22:20,485 [5271] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-22 14:22:20,485 [5271] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-22 14:22:20,489 [5271] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-22 14:22:20,489 [5271] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-22 14:22:20,490 [5271] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-22 14:22:22,714 [5278] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-22 14:22:22,715 [5278] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-22 14:22:22,715 [5278] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-22 14:22:22,717 [5278] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-22 14:22:22,717 [5278] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-22 14:22:22,717 [5278] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-22 14:22:22,889 [5279] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-22 14:22:22,889 [5279] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-22 14:22:22,889 [5279] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-22 14:22:22,891 [5279] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-22 14:22:22,891 [5279] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-22 14:22:22,891 [5279] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-22 14:23:24,227 [5271] INFO     numexpr.utils:160: [JupyterRequire] NumExpr defaulting to 8 threads.
+2023-02-22 14:40:31,268 [5271] WARNING  py.warnings:109: [JupyterRequire] /var/folders/bw/khd8ptmn3_9fkbzj7_596v7c0000gn/T/ipykernel_5271/1429638098.py:2: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  scipy.stats.ttest_ind(std_legendary , std_nolegendary, equal_var=False)
+
+2023-02-22 14:40:31,277 [5271] WARNING  py.warnings:109: [JupyterRequire] /Users/ruben/opt/anaconda3/lib/python3.9/site-packages/scipy/stats/_stats_py.py:1250: RuntimeWarning: divide by zero encountered in divide
+  var *= np.divide(n, n-ddof)  # to avoid error on division by zero
+
+2023-02-22 14:40:31,278 [5271] WARNING  py.warnings:109: [JupyterRequire] /Users/ruben/opt/anaconda3/lib/python3.9/site-packages/scipy/stats/_stats_py.py:1250: RuntimeWarning: invalid value encountered in scalar multiply
+  var *= np.divide(n, n-ddof)  # to avoid error on division by zero
+
+2023-02-22 14:51:52,643 [5271] WARNING  py.warnings:109: [JupyterRequire] /var/folders/bw/khd8ptmn3_9fkbzj7_596v7c0000gn/T/ipykernel_5271/3586638828.py:1: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  scipy.stats.ttest_ind(mean_nowater, mean_water, equal_var=True)
+
+2023-02-22 14:51:52,645 [5271] WARNING  py.warnings:109: [JupyterRequire] /Users/ruben/opt/anaconda3/lib/python3.9/site-packages/scipy/stats/_stats_py.py:1250: RuntimeWarning: divide by zero encountered in divide
+  var *= np.divide(n, n-ddof)  # to avoid error on division by zero
+
+2023-02-22 14:51:52,647 [5271] WARNING  py.warnings:109: [JupyterRequire] /Users/ruben/opt/anaconda3/lib/python3.9/site-packages/scipy/stats/_stats_py.py:1250: RuntimeWarning: invalid value encountered in scalar multiply
+  var *= np.divide(n, n-ddof)  # to avoid error on division by zero
+
